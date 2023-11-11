@@ -1,4 +1,4 @@
-- 👀 Atualmente procuro minha primeira oportunidade com back-end
+- 👀 Atualmente procuro minha primeira oportunidade como back-end
 - 🌱 Estou estudando JAVA
 - 📫 Contate-me: augustosoaresd222@proton.me
 
