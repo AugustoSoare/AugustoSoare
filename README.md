@@ -1,6 +1,6 @@
 - 👀 Atualmente procuro minha primeira oportunidade como back-end
 - 🌱 Estou estudando JAVA
-- 📫 Contate-me: augustosoaresd222@proton.me
+- 📫 Contate-me: augustosoaresd232@proton.me
 
 <div align="center">
   <a href="https://github.com/AugustoSoare ">
