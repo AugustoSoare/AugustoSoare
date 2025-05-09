@@ -1,5 +1,5 @@
-- 👀 Atualmente procuro minha primeira oportunidade como back-end
-- 🌱 Estou estudando PostegreSQL
+- 👀 Atualmente procuro minha primeira oportunidade como DBA
+- 🌱 Estou estudando Oracle
 - 📫 Contate-me: augustosoaresd232@proton.me
 
 <div align="center">
