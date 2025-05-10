@@ -1,6 +1,6 @@
-- 👀 Atualmente procuro minha primeira oportunidade como DBA
-- 🌱 Estou estudando Oracle
-- 📫 Contate-me: augustosoaresd232@proton.me
+- 👀 Atualmente trabalhando como TI, mas com projetos pessoais de DB.
+- 🌱 Estou estudando Python e Oracle SQL
+- 📫 Contate-me: augustosoaresd232@gmail.com
 
 <div align="center">
   <a href="https://github.com/AugustoSoare ">
