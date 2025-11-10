@@ -1,5 +1,5 @@
 - 👀 Atualmente trabalhando como TI, mas com projetos pessoais de DB.
-- 🌱 Estou estudando Python e Oracle SQL.
+- 🌱 Estou estudando JavaScript e Oracle SQL.
 - 📫 Contate-me: augustosoaresd232@gmail.com
 
 <div align="center">
