@@ -1,5 +1,5 @@
-- 👀 Atualmente trabalhando como TI, mas com projetos pessoais de DB.
-- 🌱 Estou estudando JavaScript e Oracle SQL.
+- 👀 Atualmente trabalhando como TI em um Hospital, mas com projetos pessoais em desenvolvimento Web (Futuramente App para Apple).
+- 🌱 Estou estudando JavaScript e MySQL.
 - 📫 Contate-me: augustosoaresd232@gmail.com
 
 <div align="center">
