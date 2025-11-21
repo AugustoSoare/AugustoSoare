@@ -1,4 +1,4 @@
-- 👀 Atualmente trabalhando como TI em um Hospital, mas com projetos pessoais em desenvolvimento Web (Futuramente App para Apple).
+- 👀 tualmente trabalho como TI em um hospital e desenvolvo projetos pessoais Web. Meu próximo passo é criar aplicativos para Apple.
 - 🌱 Estou estudando JavaScript e MySQL.
 - 📫 Contate-me: augustosoaresd232@gmail.com
 
